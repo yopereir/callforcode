@@ -1,0 +1,23 @@
+{
+  "name": "callforcode",
+  "version": "1.0.0",
+  "description": "a blockchain solution that enables suppliers to bid on contracts made by relief centers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yopereir/callforcode.git"
+  },
+  "author": "yohann",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yopereir/callforcode/issues"
+  },
+  "homepage": "https://github.com/yopereir/callforcode#readme",
+  "dependencies": {
+    "fabric-contract-api": "^1.4.2",
+    "fabric-shim": "^1.4.2"
+  }
+}
